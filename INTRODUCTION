@@ -6,12 +6,14 @@ andreabozzo92@gmail.com
 
 
 
-1) BUDGET AGENTI is a solution recently provided wich allows to show a fixed budget for given client/agent altogether with the sales achieved from them to allow precise control over budget expenses.
+1) BUDGET AGENTI is a solution recently provided (PBI) wich allows to show a fixed budget for given client/agent altogether with the sales achieved from them to allow precise control over budget expenses.
 
-2) FantaGo is a fantacalcio tool for auctioning and player/team comparison, it's made with Lega Serie A and Fantacalcio databases.
+2) FantaGo is a fantacalcio tool(PBI) for auctioning and player/team comparison, it's made with Lega Serie A and Fantacalcio databases.
 
-3) S,Valentine dashboard shows hypothethical sales happened during 14 Feb, and gives insights on multiple cardinalities, all in one report page. It was selected in the top200 Dashboards during the First week of the DataViz Challange hosted by Microsoft.
+3) S,Valentine dashboard (PBI) shows hypothethical sales happened during 14 Feb, and gives insights on multiple cardinalities, all in one report page. It was selected in the top200 Dashboards during the First week of the DataViz Challange hosted by Microsoft.
 
 4) Week3 is a work in progress about a dashboard for historical stats about uefa champions league. The dashboard also goes for the Week3 Challange of the DataViz Microsoft Contest 2025.
+
+5) Running Balance (Personal Budget) is an example table (EXCEL) showing earning/payments balance for personal usage.
 
 Sales/costs overview has been abandoned and i moved into other projects.
