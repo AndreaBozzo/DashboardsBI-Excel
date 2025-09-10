@@ -10,6 +10,8 @@ This Business Intelligence dashboard demonstrates advanced data visualization ca
 - **KPI Cards**: Key financial metrics including total contributions (67.9 M€), received contracts (69.6 M€), return coefficient (1.02), and industrial delta (1.65)
 - **Interactive Filtering**: Year-based filters (2021, 2022, 2023) for temporal analysis
 - **Country Performance Analysis**: Color-coded bar chart showing return coefficients by EU member states with performance indicators (green for high performance, yellow for medium, red for underperformance)
+- **Dynamic Narrative Box**: Context-aware text box that updates automatically based on applied filters and selected data, providing intelligent insights about the current view
+- **Interactive Tooltips**: Detailed information panels that appear on hover/selection, enhancing data exploration with contextual details
 - **Detailed Program Breakdown**: Comprehensive table displaying ESA programs with membership details, contract values, countries, and performance coefficients
 - **Advanced Controls**: Best performer highlighting, outlier detection, and reset functionality
 - **Responsive Design**: Clean, professional interface with intuitive navigation and data exploration tools
